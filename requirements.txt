@@ -1,0 +1,7 @@
+# Astro Runtime includes the following pre-installed providers packages: https://docs.astronomer.io/astro/runtime-image-architecture#provider-packages
+xmltodict==0.13.0
+numpy==1.26.4
+pandas==2.2.2
+db-sqlite3==0.0.1
+apache-airflow-providers-common-sql==1.5.2
+apache-airflow-providers-sqlite==3.4.2
